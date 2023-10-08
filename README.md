@@ -17,7 +17,7 @@ e.g. First_name Varchar (50) and Refresh
 ![create table](https://github.com/xlancelo1t/Create-Table-on-SQL/assets/144808452/016118ef-0ad0-41b5-91e6-220c749fb736)
 
 ## **Step 3: Import .csv file**
-Right click (tablename), click import/export
+Right click (tablename), click import/export,
 Select file from directory, click “OK” and Refresh
 
 ![importfile](https://github.com/xlancelo1t/Create-Table-on-SQL/assets/144808452/de2fdcca-d029-4ac7-b642-966abaa2e9fa)
@@ -25,7 +25,7 @@ Select file from directory, click “OK” and Refresh
 ![import file](https://github.com/xlancelo1t/Create-Table-on-SQL/assets/144808452/2705dd27-508b-49c1-a99b-077ce6ed5b41)
 
 ## **Step 4: view imported file**
-Comment `create table` command using the `ctrl + /` key
-Input `select * from (tablename)` command to view imported files
+Comment `create table` command using the `ctrl + /` key,
+Input `select * from (tablename)` command, to view imported files
 
 ![view files](https://github.com/xlancelo1t/Create-Table-on-SQL/assets/144808452/4848f590-fb3b-4c6a-b416-739e493505c3)
